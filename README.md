@@ -1,4 +1,4 @@
-# sample_python_project
+# Simple Tide Prediction example in Python
 
 ## Overview
 
